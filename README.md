@@ -11,6 +11,7 @@ En la barrra de URL de tu navegador copiar el id de la playlist, que se ve de la
 https://www.youtube.com/watch?v=HTNXz6WspCU&list=ID_DE_LA_PLAYLIST
 
 o
+
 https://www.youtube.com/playlist?list=ID_DE_LA_PLAYLIST
 ```
 Usar [el siguiente link](https://casanalo0703.github.io/YoutubePlaylist/) para entrar y usar la página web.
@@ -27,6 +28,7 @@ In your URL bar of your web browser copy the id of the playlist, the id can look
 https://www.youtube.com/watch?v=HTNXz6WspCU&list=PLAYLIST_ID
 
 o
+
 https://www.youtube.com/playlist?list=PLAYLIST_ID
 ```
 Use [the following link](https://casanalo0703.github.io/YoutubePlaylist/) to acces the website and use it.
