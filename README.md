@@ -2,7 +2,7 @@
 Reproductor de playlists de YouTube
 
 
-##Como usar
+## Como usar
 
 Ir a cualquier playlist PÚBLICA de YouTube.
 
@@ -19,7 +19,7 @@ Usar [el siguiente link](https://casanalo0703.github.io/YoutubePlaylist/) para e
 # YoutubePlaylist (English)
 YouTube playlists player.
 
-##How to use
+## How to use
 
 Go to any PUBLIC YouTube playlist.
 
