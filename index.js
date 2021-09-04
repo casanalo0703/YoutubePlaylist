@@ -1,6 +1,6 @@
 const boton = document.getElementById("buscar");
-const URL = "https://content.googleapis.com/youtube/v3/playlistItems" //?playlistId=PLC3A5E11175C29533" (ID que ingresen)&maxResults=50&part=id,snippet&key=AIzaSyDEux3OFAlPMTncClIIskiEKs-uJMYK2fM (Guardar llave en variable)
-const key = "AIzaSyDEux3OFAlPMTncClIIskiEKs-uJMYK2fM";
+const URL = "https://content.googleapis.com/youtube/v3/playlistItems" 
+const key = ""; //The key from the google cloud platform
 let active;
 
 function cambiaVideo(liElement) {
